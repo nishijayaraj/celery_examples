@@ -8,7 +8,7 @@ Steps to Run this Program
 =========================
 * CD to the parent folder which contains the folder proj
 * Then type the command  in terminal :
-     celery worker -A proj -l
+     celery worker -A proj -l info
 
 This will now list worker with details including assocaited tasks names,
 
